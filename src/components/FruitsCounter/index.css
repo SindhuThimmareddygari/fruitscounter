@@ -1,0 +1,46 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffd569;
+}
+.Fruit-card {
+  padding: 20px;
+  background-color: #ffffff;
+}
+.heading {
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Roboto';
+}
+span {
+  color: #ffd569;
+}
+
+.fruit-items {
+  display: flex;
+  flex-direction: row;
+  padding: 100px;
+}
+.fruit-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  margin: 20px;
+  border-radius: 4px;
+  border-width: 0px;
+  width: 120px;
+  padding: 10px;
+  font-family: 'Roboto';
+  margin-left: 100px;
+}
+img {
+  margin: 20px;
+}
